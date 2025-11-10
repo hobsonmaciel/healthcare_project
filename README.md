@@ -84,5 +84,4 @@ O dataset utilizado está disponível [neste link CSV](https://github.com/seu-us
 
 1. Clone este repositório:
 ```bash
-git clone [https://github.com/seu-usuario/healthcare_project.git
-](https://github.com/hobsonmaciel/healthcare_project)
+git ](https://github.com/hobsonmaciel/healthcare_project)
